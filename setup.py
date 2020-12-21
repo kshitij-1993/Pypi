@@ -8,7 +8,7 @@ setup(
   author = 'Kshitij Gupta',                   # Type in your name
   author_email = 'kshitijgupta1993@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/kshitij-1993/Pypi.git',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/kshitij-1993/Pypi/archive/v1.0.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/kshitij-1993/Pypi/archive/v2.0.tar.gz',    # I explain this later on
   keywords = ['KshitijProjrct'],   # Keywords that define your package best
   #install_requires=[],
   classifiers=[
